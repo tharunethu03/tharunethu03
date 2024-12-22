@@ -6,7 +6,7 @@
   - An **autonomous package-delivering drone** as part of an IoT project.
 - 💻 Skilled in **UI/UX design**, **frontend development**, and exploring the world of **backend engineering**.
 - 🌱 Aspiring to become a **full-stack developer** and launch my own tech company.
-- 🎮 Outside of coding, I enjoy **music** and **gaming**.
+- 🎮 Outside of coding, I enjoy **music**,**gaming** and **Spider-Man**.
 
 
 ## 🌐 Socials:
