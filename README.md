@@ -4,8 +4,7 @@
 🎓 I'm an undergraduate **Software Engineer** with a passion for solving real-world problems through tech.  
 🔧 Skilled in **UI/UX**, **frontend**, and exploring the **backend** to grow into a **full-stack developer**.  
 🚀 Currently building:
-- **Eventory** – an event management app using **Flutter**.
-- An **autonomous drone** for package delivery (IoT project).
+- Fullstack websites 
 
 🎯 Aspiring to launch my **own tech company** someday.  
 🎮 I also enjoy music, gaming, and all things **Spider-Man**.
