@@ -7,7 +7,7 @@
 - Fullstack websites 
 
 🎯 Aspiring to launch my **own tech company** someday.  
-🎮 I also enjoy music, gaming, and all things **Spider-Man**.
+🎮 I also enjoy music, gaming, and **Spider-Man**.
 
 ---
 
