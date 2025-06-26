@@ -20,10 +20,4 @@
 
 ---
 
-## 🏅 Certifications  
-- JavaScript (Basic) – HackerRank  
-- React (Basic) – HackerRank  
-
----
-
 > “365 Days, 365 Ways to grow.”
