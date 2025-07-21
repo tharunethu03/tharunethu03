@@ -3,8 +3,10 @@
 
 🎓 I'm an undergraduate **Software Engineer** with a passion for solving real-world problems through tech.  
 🔧 Skilled in **UI/UX**, **frontend**, and exploring the **backend** to grow into a **full-stack developer**.  
+
 🚀 Currently building:
-- Fullstack websites 
+- Fullstack websites
+- University Communication Platform
 
 🎯 Aspiring to launch my **own tech company** someday.  
 🎮 I also enjoy music, gaming, and **Spider-Man**.
