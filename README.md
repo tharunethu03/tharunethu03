@@ -22,4 +22,4 @@
 
 ---
 
-> “365 Days, 365 Ways to grow.”
+> “365 Days, 365 Ways.”
