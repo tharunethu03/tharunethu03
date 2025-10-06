@@ -4,8 +4,7 @@
 🔧 Skilled in **UI/UX**, **frontend**, and exploring the **backend** to grow into a **full-stack developer**.  
 
 🚀 Currently building:
-- Fullstack websites
-- University Communication Platform
+- AI Mock Interview Platform (FYP)
 
 🎯 Aspiring to launch my **own tech company** someday.  
 🎮 I also enjoy music, gaming, and **Spider-Man**.
