@@ -5,8 +5,7 @@
 
 🚀 Currently building:
 - AI Mock Interview Platform (FYP)
-
-🎯 Aspiring to launch my **own tech company** someday.  
+ 
 🎮 I also enjoy music, gaming, and **Spider-Man**.
 
 ---
