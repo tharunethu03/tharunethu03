@@ -5,7 +5,7 @@
 <div align="center">
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Designer.+Developer.+Artist.;365+Days%2C+365+Ways.;With+Great+Power...;Comes+Great+Responsibility.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Designer.+Developer.+Artist.;365+Days%2C+365+Ways.;Software+by+sunrise,+Digital+art+by+moonlight;With+Great+Power...;Comes+Great+Responsibility.)
 
 <br/>
 
