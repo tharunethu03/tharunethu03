@@ -1,6 +1,4 @@
-<div align="right">
-<img src="https://github.com/user-attachments/assets/d92e3cfa-2626-4fee-a4c8-dc8e482a7f84" width="380" alt="spiderman" />
-</div>
+<img src="https://github.com/user-attachments/assets/b995c748-fb65-4676-8a79-9d28807e142b" width="100%" alt="spiderman" />
 
 <div align="center">
 
