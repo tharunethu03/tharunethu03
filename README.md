@@ -14,9 +14,4 @@
 
 <br/>
 
-![](https://github-readme-stats.vercel.app/api?username=tharunethu03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=C9A96E&icon_color=C9A96E&text_color=ffffff)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tharunethu03&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=C9A96E&text_color=ffffff)
-
-<br/>
-
 </div>
